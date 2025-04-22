@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.h5
+*.keras
+*.zip
+*.jpg
+*.png
+*.mp4
+.env
+test/
+train/
+validation/
+
